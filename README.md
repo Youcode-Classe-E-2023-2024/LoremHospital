@@ -1,16 +1,15 @@
 # LoremHospital
-Site vitrine d'un hopital lombda pour servir d'initiation au workflow miniSCRUM prévu à cet effet.
+Site vitrine d'un hopital lombda pour servir d'initiation au workflow miniSCRUM sur Github prévu à cet effet.
 
 ## 📈ScrumGame: I'm the supervisors :
 Avec l'assistance de toute l'équipe :
 
 * Initialisation du projet dans l'organisation Github
-  - [ ] Créer un repository sous le nom de `$id-LoremHospital`  
-  - [ ] Créer un projet
-  - [ ] Créer une team sous le nom de `$id-Team` et y ajouter tout les membres
-  - [ ] Installer exactement le contenu de ce repository dans le repository créé
+  - [ ] Utiliser ce template comme repository sous le nom de `<squad-name>_LoremHospital`
+  - [ ] Créer un project kanban automatisé dans votre repository
+  - [ ] Créer une team sous le nom de `<squad-name>` et y ajouter tout les membres
 
-*hint: Il est possible de fork le projet->changer le nom du repo->transferer le repo vers l'organisation.*
+*hint: Le boutton use template.*
 
  Maintenant sans l'assistance de l'équipe :
 
@@ -25,7 +24,7 @@ Avec l'assistance de toute l'équipe :
 
 Enfin veille sur le bon déroulement du projet et la création de **github-page** pour le deploiement!
 
-*hint: Il faut optimiser la configuration de ces tâches afin de permettre rapidement aux Devs de se mettent au travail.*
+*N.B: Il faut optimiser la configuration de ces tâches afin de permettre rapidement aux Devs de se mettent au travail.*
 
  ***
   
@@ -173,5 +172,4 @@ Trouver le bon code block correspondant à chaque issue et le coller dans la sec
  ***
 
 ## 👓RevGame: Merge or Die :
-Tu meurs si un merge resulte sur des erreurs ou si le deploiement l'est aussi. 😁
-
+Tu es viré si un merge resulte sur des erreurs, conflits ou si le deploiement ne réussi pas. 😁
